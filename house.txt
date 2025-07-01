@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 door
+=======
+Roof
+Walls
+>>>>>>> origin/features
